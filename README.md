@@ -1,4 +1,7 @@
 # PowerPointImageExportAddin
+
+[![Join the chat at https://gitter.im/PowerPointImageExportAddin/community](https://badges.gitter.im/PowerPointImageExportAddin/community.svg)](https://gitter.im/PowerPointImageExportAddin/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Small PowerPoint Addin that enables the user to export the current slide in all formats 
 supported by Powerpoint in a user defined resolution.
 
